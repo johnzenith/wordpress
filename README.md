@@ -1,2 +1,2 @@
 # wordpress
-Anything involving wordpress
+Anything WordPress
